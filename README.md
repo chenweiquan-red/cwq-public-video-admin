@@ -1,5 +1,8 @@
 # 视频行为分析系统后台管理
 
+![](https://wqknowledge.oss-cn-shenzhen.aliyuncs.com/LLM/videoadmin.png)
+
+
 #### 安装
 | 程序         | 版本              |
 | ---------- |-----------------|
