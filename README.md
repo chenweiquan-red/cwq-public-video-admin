@@ -1,5 +1,10 @@
 # 视频行为分析系统后台管理
 
+如果要跑完整项目可以参考blog:
+https://www.wqknowledge.top/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B/videoAnalyzer.html
+
+![](https://wqknowledge.oss-cn-shenzhen.aliyuncs.com/LLM/yolo.svg)
+
 ![](https://wqknowledge.oss-cn-shenzhen.aliyuncs.com/LLM/videoadmin.png)
 
 
